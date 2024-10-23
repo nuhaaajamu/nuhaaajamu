@@ -1,5 +1,5 @@
 # 👩🏻‍💻 About Me
-I'm an undergraduate student at the University of Maryland Baltimore County who recently transitioned into computer science. Leveraging my background in biology, I bring a unique perspective, applying scientific methodologies to problem-solving in technology. The limitless potential and impact of this field fuels interest in computer science.
+I'm an undergraduate student at the University of Maryland Baltimore County who recently transitioned into computer science. Leveraging my background in biology, I bring a unique perspective, applying scientific methodologies to problem-solving in technology. The limitless potential and impact of this field fuels my interest in computer science.
 
 
 ## 🌐 Socials
