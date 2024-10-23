@@ -1,7 +1,7 @@
 # 👩🏻‍💻 About Me
 I'm an undergraduate student at the University of Maryland Baltimore County who recently transitioned into computer science. Leveraging my background in biology, I bring a unique perspective, applying scientific methodologies to problem-solving in technology. The limitless potential and impact of this field fuels my interest in computer science.
 
-# ✅ Tech Stack
+# 👾 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 
 # 🌐 Socials
