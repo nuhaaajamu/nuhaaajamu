@@ -6,7 +6,7 @@ I'm an undergraduate student at the University of Maryland Baltimore County who 
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nuhaaajamu/) 
----
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
