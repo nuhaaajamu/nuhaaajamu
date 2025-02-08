@@ -16,7 +16,7 @@ I'm an undergraduate student at the University of Maryland, Baltimore County, wh
 [![My Skills](https://skillicons.dev/icons?i=py,github,clion,pycharm)](https://skillicons.dev)
 <br><br>
 
-### Currently Learning:
+### Actively Learning:
 [![My Skills](https://skillicons.dev/icons?i=cpp,css,html,js)](https://skillicons.dev)
 <br><br>
 
