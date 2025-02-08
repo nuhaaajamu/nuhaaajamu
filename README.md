@@ -1,5 +1,4 @@
-<h1 align="center">Code, Creativity, and a Curious Mind</h1>
-<h2 align="center" style="margin-bottom: 0;">Welcome to My World 🧕🏼</h2>
+<h1 align="center">Code, Creativity, and a Curious Mind - Welcome to My World 🧕🏼</h1>
 <br><br>
 
 ### Who am I?
