@@ -12,15 +12,15 @@ I'm an undergraduate student at the University of Maryland, Baltimore County, wh
 🧬 Current Project: PhyloGenix
 <br><br>
 
-### Languages & Tools
+### Languages & Tools:
 [![My Skills](https://skillicons.dev/icons?i=py,github,clion,pycharm)](https://skillicons.dev)
 <br><br>
 
-### Currently Learning
+### Currently Learning:
 [![My Skills](https://skillicons.dev/icons?i=cpp,css,html,js)](https://skillicons.dev)
 <br><br>
 
-### Connect With Me!
+### Let's Connect:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nuhaaajamu/) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:nuhaaajamu@gmail.com)
 
 
