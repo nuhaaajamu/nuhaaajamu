@@ -9,7 +9,7 @@ I'm an undergraduate student at the University of Maryland, Baltimore County, wh
 
 🔍 My Curiosities: AI/ML, web development, intersection of tech and fashion  
 🌟 Fun Facts: I love all things fashion, reading, and nature  
-🧬 Current Project: PhyloGenix
+🧬 Latest Project: PhyloGenix
 <br><br>
 
 ### Languages & Tools:
