@@ -7,7 +7,7 @@ I'm an undergraduate student at the University of Maryland, Baltimore County, wh
 **I don’t just want to study problems, I want to solve them.**
 <br><br>
 
-🔍 My Curiosities: AI/ML, web development, intersection of tech and fashion  
+🔍 My Curiosities: AI/ML, web development, intersection of tech and healthcare  
 🌟 Fun Facts: I love all things fashion, reading, and nature  
 🧬 Latest Project: PhyloGenix
 <br><br>
