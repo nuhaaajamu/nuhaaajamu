@@ -1,4 +1,8 @@
-<p align="center">## Hi! I'm Nuhaa</p>
+<h2 align="center">Hi, I’m Nuhaa</h2>
+
+<p align="center">
+  exploring the space where technology, design, and culture come together
+</p>
 
 I’m a computer science student exploring front-end development and creative applications of technology. I’m especially interested in fashion tech and human-centered digital experiences, spaces where design, culture, and engineering come together
 
