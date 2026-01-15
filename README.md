@@ -13,11 +13,11 @@ I'm an undergraduate student at the University of Maryland, Baltimore County, wh
 <br><br>
 
 ### Languages & Tools:
-[![My Skills](https://skillicons.dev/icons?i=py,c++,github,clion,pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,github)](https://skillicons.dev)
 <br><br>
 
 ### Actively Learning:
-[![My Skills](https://skillicons.dev/icons?i=cpp,css,html,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,html,js)](https://skillicons.dev)
 <br><br>
 
 ### Let's Connect:
