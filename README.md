@@ -1,15 +1,15 @@
-<h1 align="center">Code, Creativity, and a Curious Mind - Welcome to My World 🧕🏼</h1>
+<h1 align="center">Hi! I'm Nuhaa</h1>
 <br><br>
 
-### Join Me On My Journey in Tech!
-I'm an undergraduate student at the University of Maryland, Baltimore County, who recently made the transition to computer science. Why technology? For me, it’s about impact and creativity. Programming appealed to me because of the way in which I get to be hands-on, using technology to create, problem-solve, and bring ideas to life. Coding isn’t just about logic, it’s a creative process through brainstorming unique solutions, designing innovative tools, and thinking outside the box to tackle challenges. As someone who has always been drawn to creative expression, whether through writing, art, or problem-solving, programming gives me an outlet to channel that creativity into something tangible and impactful. 
+I’m a computer science student exploring front-end development and creative applications of technology. I’m especially interested in fashion tech and human-centered digital experiences—spaces where design, culture, and engineering come together.
 
-**I don’t just want to study problems, I want to solve them.**
+**This GitHub is an evolving archive of my learning, experiments, and ideas—where I explore both the technical and creative sides of building, and how technology can be used with intention.**
 <br><br>
 
-🔍 My Curiosities: AI/ML, web development, intersection of tech and healthcare  
-🌟 Fun Facts: I love all things fashion, reading, and nature  
-🧬 Latest Project: PhyloGenix
+Current focus:
+- Front-end fundamentals (HTML, CSS, JavaScript)
+- UI and experience-driven thinking
+- Exploring how technology can amplify creativity, self-expression, and thoughtful design
 <br><br>
 
 ### Languages & Tools:
