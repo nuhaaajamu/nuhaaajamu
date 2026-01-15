@@ -1,5 +1,4 @@
 ### Hi! I'm Nuhaa
-<br><br>
 
 I’m a computer science student exploring front-end development and creative applications of technology. I’m especially interested in fashion tech and human-centered digital experiences, spaces where design, culture, and engineering come together
 <br><br>
