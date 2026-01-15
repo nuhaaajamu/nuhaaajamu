@@ -1,13 +1,12 @@
 <h1 align="center">Hi! I'm Nuhaa</h1>
 <br><br>
 
-I’m a computer science student exploring front-end development and creative applications of technology. I’m especially interested in fashion tech and human-centered digital experiences, spaces where design, culture, and engineering come together.
+I’m a computer science student exploring front-end development and creative applications of technology. I’m especially interested in fashion tech and human-centered digital experiences, spaces where design, culture, and engineering come together
 
-**This GitHub is an evolving archive of my learning, experiments, and ideas, where I explore both the technical and creative sides of building, and how technology can be used with intention.**
-<br><br>
+*This GitHub is an evolving archive of my learning, experiments, and ideas, where I explore both the technical and creative sides of building, and how technology can be used with intention*
 
-Current focus:
-- Front-end fundamentals (HTML, CSS, JavaScript)
+### Current Focus:
+- Front-end fundamentals: HTML, CSS, JavaScript
 - UI and experience-driven thinking
 - Exploring how technology can amplify creativity, self-expression, and thoughtful design
 <br><br>
