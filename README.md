@@ -12,7 +12,7 @@ I’m a computer science student exploring front-end development and creative ap
 <br><br>
 
 ### Languages & Tools:
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,github)](https://skillicons.dev)
 <br><br>
 
 ### Actively Learning:
