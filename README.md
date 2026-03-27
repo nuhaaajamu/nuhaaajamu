@@ -7,6 +7,7 @@ I’m a computer science student exploring full-stack development and creative a
 
 ### Current Focus:
 - Front-end fundamentals: HTML, CSS, JavaScript
+- Data structures and algorithms
 - UI and experience-driven thinking
 - Exploring how technology can amplify creativity, self-expression, and thoughtful design
 <br><br>
