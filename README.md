@@ -1,8 +1,10 @@
 <h1 align="center">Hi, I’m Nuhaa</h1>
 
-I’m a computer science student exploring full-stack development and creative applications of technology. I’m especially interested in fashion tech and human-centered digital experiences: spaces where design, culture, and engineering come together
+I’m a computer science student building a strong foundation in programming and data structures, with hands-on experience in C++ through projects involving linked lists, queues, and dynamic memory management.
 
-***This GitHub is an evolving archive of my learning, experiments, and ideas, where I explore both the technical and *creative* sides of building, and how technology can be used with intention 🌟*** 
+I’m exploring full-stack development and how technology can be applied to create thoughtful, user-focused experiences. I’m especially interested in areas where engineering intersects with design and creativity, and I use this space to experiment with both the technical and conceptual sides of building.
+
+***This GitHub serves as an archive of my projects and ongoing learning as I continue developing my skills.*** 
 <br><br>
 
 ### Current Focus:
